@@ -75,16 +75,3 @@ We provide 2 model weights for US-1M as listed in the table below.
 
 For preparing US-1M pretraining dataset, we provide instructions for i) Downloading raw datasets from publicly available sources and ii) downloading processed annotations and merging with raw-datasets to build US-1M 
 Refer to the detailed instructions described in [US1M-DATA.md](docs/US1M-DATA.md).
-
-
-## Questions and Support
-
-Contact Mingyang Zhao (migyangz@gmail.com) regarding any questions about the code and the paper.
-
-
-## Citation
-
-If you find our work and this repository helpful, please consider giving our repo a star and citing our paper as follows:
-
-TBA
-
