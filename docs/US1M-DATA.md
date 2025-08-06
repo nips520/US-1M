@@ -5,7 +5,7 @@ This document provides detailed instructions on preparing UniMed dataset for pre
 Follow the instructions below to construct US-1M dataset.
 
 
-## Downloading Individual Datasets and Converting them into Image-text format
+## Downloading Individual Datasets
 
 As the first step, we download the individual Medical Datasets from their respective data providers.  We suggest putting all datasets under the same folder (say `$DATA`) to ease management. The file structure looks like below.
 ```
