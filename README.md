@@ -12,7 +12,7 @@ This repository contains the code implementation for US-1M, which establishes a 
 
 # Updates
 * **May 23, 2025**
-  * Demo released on Hugging Face spaces ([view demo](https://huggingface.co/datasets/wyh1128/US-1M))
+  * Demo released on Hugging Face spaces ([view demo](https://huggingface.co/datasets/wyh1128/US-1M)).
 * **Apr 13, 2025**
   * Annotations and code scripts for preparing the US-1M pretraining dataset are released.
   * US-1M training and inference code are released, along with pretrained checkpoints.
